@@ -5,7 +5,7 @@ public class SecondLargest {
 	int a;
 	static int b=0;
 	int arr[]={31,4,67,5,7,100,3};
-	int arr2[];
+	//int arr2[];
 	//int j=0;
 	public void largestNumber()
 	{		

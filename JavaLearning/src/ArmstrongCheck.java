@@ -26,8 +26,8 @@ public class ArmstrongCheck {
 	}
 	public static void main(String[] args) {
 		ArmstrongCheck ac = new ArmstrongCheck();
-		//ac.armstrong();
-		ac.rangeArmstrong();
+		ac.armstrong();
+		//ac.rangeArmstrong();
 	}
 	
 	public void rangeArmstrong()
